@@ -1,0 +1,13 @@
+agregar_archivo vuelos-algueiza-parte-01.csv
+ver_tablero 25 asc 2000-04-10T12:53:55 2017-04-10T12:53:55
+borrar 2014-04-10T23:22:55 2015-11-24T23:21:55
+agregar_archivo vuelos-algueiza-parte-02.csv
+borrar 2010-04-10T23:22:55 2011-11-24T23:21:55
+ver_tablero 30 desc 2010-04-10T12:53:55 2017-04-10T12:53:55
+borrar 2011-04-10T23:22:55 2011-05-24T23:21:55
+agregar_archivo vuelos-algueiza-parte-03.csv
+agregar_archivo vuelos-algueiza-parte-04.csv
+ver_tablero 40 asc 2000-04-10T12:53:55 2019-04-10T12:53:55
+ver_tablero 50 desc 2010-04-10T12:53:55 2017-04-10T12:53:55
+agregar_archivo vuelos-algueiza-parte-05.csv
+borrar 2000-04-10T23:22:55 2011-11-24T23:21:55

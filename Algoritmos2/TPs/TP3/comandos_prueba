@@ -1,0 +1,20 @@
+listar_operaciones
+
+
+vacaciones Columbia,400
+vacaciones Alexandria,12
+
+camino_mas barato Lanus,Pueblo Paleta
+camino_mas barato Lanus,Wacanda
+camino_mas rapido Gotica,Narnia
+camino_mas rapido Riverdale,Narnia
+camino_mas rapido Narnia,Riverdale
+camino_mas rapido Lanus,Narnia
+camino_escalas Lanus,Wacanda
+camino_escalas Gotica,Narnia
+exportar_kml prueba.kml
+nueva_aerolinea mst_prueba
+centralidad 5
+vacaciones Wacanda,4
+
+itinerario itinerario_ejemplo.csv

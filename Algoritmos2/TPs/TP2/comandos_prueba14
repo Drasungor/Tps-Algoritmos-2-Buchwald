@@ -1,0 +1,8 @@
+agregar_archivo vuelos-algueiza-parte-02.csv
+info_vuelo 4608
+agregar_archivo vuelos-algueiza-parte-05.csv
+info_vuelo 206
+ver_tablero 5 asc 2018-10-10T00:01:00 2018-10-19T00:12:00
+prioridad_vuelos 7
+borrar 2014-04-10T23:22:55 2015-11-24T23:21:55
+prioridad_vuelos 20
